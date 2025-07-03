@@ -1,6 +1,6 @@
 # Advanced Verilog Design Modules
 
-This project includes sequence detectors using Moore and Mealy FSMs, synchronous serial circuits, and counters, written in Verilog.
+This project presents a collection of advanced Verilog modules focusing on sequence detection using finite state machines(FSMs), synchronous serial circuits, and counters. The project emphasizes digit design principles and simulation practices for academic and practical learning.
 
 ## Included Modules
 ✅ 110 Sequence Detector (Moore and Mealy models)  
